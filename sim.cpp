@@ -101,7 +101,6 @@ void method2(){
 	
 	while (Euclid_chosen_counter < wait_for_Euclids){
 		games_hosted++;
-		int Euclid_index = random_position();
 		
 		int game_continues = 1;
 		int round = -1;
@@ -118,6 +117,8 @@ void method2(){
 				game_continues = 0;
 			}
 		}
+		
+		int Euclid_index = random_position();
 		if ( is_Euclid_assigned_in_group_N(dead_round, Euclid_index) ){
 			Euclid_chosen_counter++;
 			Euclid_dead_counter++;
