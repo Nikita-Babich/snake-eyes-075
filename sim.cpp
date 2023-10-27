@@ -239,7 +239,6 @@ int main(){
 	
 	std::cout << "Method 1 is how YES party sees the question. Probability is calculted for the widest probability space, where 'Being chosen' might or might not happen, is not part of the setup, is an info conditioned upon.\n ";
 	std::cout << "Method 2 is how some commenters on Snake Eyes market see the question.\n ";
-	std::cout << "The methods 1 and 2 are not quite correct, because there we know the future by knowing Euclid index.\n\n ";
 	std::cout << "Method 3 is mathematically equivalent to 1 (additional shuffles do not affect the result), \n but technically does not recieve information from the future.\n";
 	std::cout << "Method 4 is how NO party sees the question. 'Being chosen' is part of the setup, is given information.";
 }
