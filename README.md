@@ -38,5 +38,4 @@ Mathematiclly there is no difference between shuffle in advance an shuffling wha
 How can participation be a guaranteed event? Throw the dice first until snake eyes and look how many people you will need. Take Euclid and other people in the amount to fill the rounds. Randomly distribute them into round-groups and declare which group is dead. It is easily organisable, but does not match the order of drafts and throws given in the game algorithm.
  
 # My current position
-My opinion changed from 0.91 to 0.5.
-I still think that YES calculations are incorrect and recommend reading Fintan's paper.
+I think that the whole problem is created by linguistic differences.
